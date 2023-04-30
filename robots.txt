@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hicorisico.github.io/sitemap.xml
